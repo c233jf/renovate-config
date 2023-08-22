@@ -1,3 +1,7 @@
-# renovate
+# Renovate Config
 
-personal renovate configuration of JS
+Personal renovate configuration.
+
+## Configurations
+
+- [js](./js.json)
