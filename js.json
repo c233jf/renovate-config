@@ -3,7 +3,9 @@
   "extends": [
     "config:recommended",
     ":approveMajorUpdates",
-    ":onlyNpm",
     "schedule:earlyMondays"
-  ]
+  ],
+  "npm": {
+    "enabled": true
+  }
 }
